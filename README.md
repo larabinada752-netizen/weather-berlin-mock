@@ -18,9 +18,12 @@ No external libraries required
 ⚙️ How to Run
 
 1 Download or clone the repository
+
 2 Open terminal in project folder
+
 3 Run default random weather snapshot:
 python berlin_weather.py
+
 4 Or force a scenario using CLI flags:
 python berlin_weather.py --sunny
 python berlin_weather.py --cloudy
