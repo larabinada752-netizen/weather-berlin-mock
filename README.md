@@ -27,7 +27,8 @@ python berlin_weather.py --cloudy
 python berlin_weather.py --rainy
 python berlin_weather.py --windy
 
-[Run 1](https://github.com/larabinada752-netizen/weather-berlin-mock/blob/055779f531e66958f3dff192ed85bdf3ae99148a/run_1.png.jpeg?raw=true)
+## 📸 Program Run Screenshots
+![Run 1](https://github.com/larabinada752-netizen/weather-berlin-mock/blob/055779f531e66958f3dff192ed85bdf3ae99148a/run_1.png.jpeg?raw=true)
 
 
 
